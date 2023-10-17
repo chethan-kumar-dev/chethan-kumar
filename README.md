@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethan Kumar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-
+<img align="right" alt="coding" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan-kumar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chethan-kumar-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethan-kumar-dev" alt="chethan-kumar-dev" /></a> </p>
